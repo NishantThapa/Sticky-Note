@@ -1,1 +1,5 @@
-This is a React app = Sticky Notes
+you can test this app live @ https://nishantthapa.github.io/Sticky-Note/
+
+There are still some areas which needs improvement 
+
+feel free to fork it up 
