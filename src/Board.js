@@ -64,7 +64,7 @@ this.add = this.add.bind(this)
         return(
             <div className="board">
                 {this.state.notes.map(this.eachNote)}
-                <button onClick={this.add.bind(null,"new note")} id="add">add</button>
+                <button onClick={this.add.bind(null,"new note")} id="add">ADD NEW</button>
             </div>
         )
     }
